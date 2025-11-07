@@ -1,25 +1,45 @@
-# CakePHP 3
+# Dependencies
+/vendor/
+/node_modules/
 
-/vendor/*
-/config/app.php
+# Laravel specific
+.env
+.env.backup
+.env.production
+/storage/*.key
+/public/hot
+/public/storage
+/storage/app/public
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/storage/framework/views/*
+/storage/logs/*
 
-/tmp/cache/models/*
-!/tmp/cache/models/empty
-/tmp/cache/persistent/*
-!/tmp/cache/persistent/empty
-/tmp/cache/views/*
-!/tmp/cache/views/empty
-/tmp/sessions/*
-!/tmp/sessions/empty
-/tmp/tests/*
-!/tmp/tests/empty
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
 
-/logs/*
-!/logs/empty
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 
-# CakePHP 2
+# Testing
+coverage/
+.phpunit.result.cache
 
-/app/tmp/*
-/app/Config/core.php
-/app/Config/database.php
-/vendors/*
+# Composer
+composer.phar
+
+# PHPUnit
+phpunit.xml
+
+# Development
+docker-compose.override.yml
